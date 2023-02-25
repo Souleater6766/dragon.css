@@ -3,7 +3,7 @@ I’ve made a dragon that follows the mouse mean while you hover on the web page
 
 
  
-we've added a keyframe animation called "dragon-fly" to create a flying animation for the dragon. The animation lasts for 2 seconds, and loops infinitely. The transform property is used to move the dragon image across the screen and rotate it to create the flying effect.
+I've added a keyframe animation called "dragon-fly" to create a flying animation for the dragon. The animation lasts for 2 seconds, and loops infinitely. The transform property is used to move the dragon image across the screen and rotate it to create the flying effect.
 
 In the dragon-fly animation, we're defining three keyframes. At the 0% keyframe, the dragon image is rotated 0 degrees and translated to the left of the screen. At the 50% keyframe, the dragon image is rotated 30 degrees and translated to the right of the screen. At the 100% keyframe, the dragon image is rotated 0 degrees and translated back to the left of the screen.
 
